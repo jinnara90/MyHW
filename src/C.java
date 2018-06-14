@@ -8,6 +8,7 @@ public class C {
 	}
 	public void show() {
 		System.out.println(str);
+		System.out.println("Its devC");
 	}
 	public void set(String str) {
 		this.str = str;

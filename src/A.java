@@ -9,7 +9,11 @@ public class A {
 		c.del_str();
 		System.out.println(c.str);
 
+
 		c.show();
 		System.out.println("Its devB");
+
+		System.out.println("Its devC");
+
 	}
 }
