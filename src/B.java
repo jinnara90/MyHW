@@ -11,8 +11,10 @@ public class B {
 		System.out.println(str);
 		System.out.println(name);
 		System.out.println(hobby);
+		System.out.println("Its devB");
 	}
 	public void set_name(String str){
 		this.name = str;
 	}
+
 }
