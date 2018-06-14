@@ -8,5 +8,6 @@ public class A {
 		System.out.println(c.str);
 		c.del_str();
 		System.out.println(c.str);
+		System.out.println("Its devB");
 	}
 }
